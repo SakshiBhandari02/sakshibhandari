@@ -1,1 +1,1 @@
-this is about cors js
+this is about cors in express js
